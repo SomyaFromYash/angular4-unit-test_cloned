@@ -1,0 +1,4 @@
+f2 file to learn rm command
+git rm f1.txt -r
+to remove single file
+git rm f1.txt f2.txt -r
